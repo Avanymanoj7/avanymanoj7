@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Avany-Manoj&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
-  <a href="mailto:avanymanoj16@gmail.com"><img src="https://img.shields.io/badge/Gmail-avanymanoj16%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:avanymanoj7@gmail.com"><img src="https://img.shields.io/badge/Gmail-avanymanoj16%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/avany-manoj-29b261338"><img src="https://img.shields.io/badge/LinkedIn-Avany%20Manoj-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Avany-Manoj"><img src="https://img.shields.io/badge/GitHub-Avany--Manoj-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </div>
